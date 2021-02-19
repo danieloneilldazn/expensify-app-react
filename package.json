@@ -35,7 +35,6 @@
     "react-modal": "^3.11.2",
     "react-redux": "^5.0.5",
     "react-router-dom": "^5.2.0",
-    "react-test-renderer": "^16.0.0",
     "redux": "^3.7.2",
     "sass-loader": "^10.0.3",
     "style-loader": "^2.0.0",
@@ -48,6 +47,7 @@
     "enzyme": "^3.0.0",
     "enzyme-to-json": "^3.0.1",
     "jest": "^20.0.4",
-    "webpack-dev-server": "^3.11.0"
+    "webpack-dev-server": "^3.11.0",
+    "react-test-renderer": "^16.0.0"
   }
 }
